@@ -4,7 +4,7 @@ return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=tagcloud_db',
     'username' => 'root',
-    'password' => '',
+    'password' => 'admin',
     'charset' => 'utf8',
 
     // Schema cache options (for production environment)

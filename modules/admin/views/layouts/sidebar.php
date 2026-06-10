@@ -112,9 +112,6 @@
                                       d="M0 0h1v15h15v1H0zm10 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4.9l-3.613 4.417a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61L13.445 4H10.5a.5.5 0 0 1-.5-.5"/>
                             </svg>
                         </i> <span class="nav-label">Медиарейтинг</span></a>
-                    <!--                    <ul class="nav nav-second-level collapse" aria-expanded="false">-->
-                    <!--                        <li><a href="http://webapplayers.com/inspinia_admin-v2.9.4/typography.html">Typography</a></li>-->
-                    <!--                    </ul>-->
                 </li>
 
                 <li>
@@ -133,9 +130,6 @@
                             </svg>
                         </i>
                         <span class="nav-label">Избранное</span></a>
-                    <!--                                        <ul class="nav nav-second-level collapse" aria-expanded="false">-->
-                    <!--                                            <li><a href="http://webapplayers.com/inspinia_admin-v2.9.4/table_basic.html">Static Tables</a></li>-->
-                    <!--                                        </ul>-->
                 </li>
 
                 <li>
@@ -146,10 +140,6 @@
                                 <path d="M14 4.5V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h5.5zm-3 0A1.5 1.5 0 0 1 9.5 3V1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V4.5z"/>
                             </svg>
                         </i> <span class="nav-label">Создать проект</span></a>
-                    <!--                    <ul class="nav nav-second-level collapse" aria-expanded="false">-->
-                    <!--                        <li><a href="http://webapplayers.com/inspinia_admin-v2.9.4/ecommerce_products_grid.html">Products grid</a></li>-->
-                    <!--                       -->
-                    <!--                    </ul>-->
                 </li>
 
 

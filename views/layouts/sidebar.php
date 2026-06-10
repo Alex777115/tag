@@ -37,7 +37,7 @@ $menuItems = Menu::find()
                 </li>
                 <?php foreach ($menuItems as $menuItem): ?>
 
-                    <?php if ($menuItem->id == 4): ?> <!-- Условие для ID = 5 -->
+                    <?php if ($menuItem->id == 1): ?> <!-- Условие для ID = 5 -->
                         <li>
                             <a href="" aria-expanded="false" style="text-decoration: none">
                                 <i class="fa">
@@ -54,7 +54,7 @@ $menuItems = Menu::find()
                             </ul>
                         </li>
 
-                    <?php elseif ($menuItem->id == 5): ?> <!-- Условие для ID = 4 -->
+                    <?php elseif ($menuItem->id == 2): ?> <!-- Условие для ID = 4 -->
                         <li>
                             <a href="<?= Html::encode($menuItem->url) ?>" aria-expanded="false" style="text-decoration: none">
                                 <i class="fa">
@@ -86,7 +86,7 @@ $menuItems = Menu::find()
                         </li>
 
 
-                    <?php elseif ($menuItem->id == 6): ?> <!-- Условие для ID = 4 -->
+                    <?php elseif ($menuItem->id == 3): ?> <!-- Условие для ID = 4 -->
                 <li>
                     <a href="" aria-expanded="false" style="text-decoration: none"><i
                                 class="fa">
@@ -100,7 +100,7 @@ $menuItems = Menu::find()
                     <!--                    </ul>-->
                 </li>
 
-                    <?php elseif ($menuItem->id == 7): ?> <!-- Условие для ID = 4 -->
+                    <?php elseif ($menuItem->id == 4): ?> <!-- Условие для ID = 4 -->
                 <li>
                     <a href="" aria-expanded="false" style="text-decoration: none"><i
                                 class="fa"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="16px" height="16px"
@@ -118,7 +118,7 @@ $menuItems = Menu::find()
                     <!--                    </ul>-->
                 </li>
 
-                    <?php elseif ($menuItem->id == 8): ?> <!-- Условие для ID = 4 -->
+                    <?php elseif ($menuItem->id == 5): ?> <!-- Условие для ID = 4 -->
                 <li>
                     <a href="" aria-expanded="false" style="text-decoration: none"><i
                                 class="fa"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -147,7 +147,7 @@ $menuItems = Menu::find()
                     <!--                    </ul>-->
                 </li>
 
-                    <?php elseif ($menuItem->id == 10): ?> <!-- Условие для ID = 4 -->
+                    <?php elseif ($menuItem->id == 6): ?> <!-- Условие для ID = 4 -->
                 <li>
                     <a href="" aria-expanded="false" style="text-decoration: none"><i
                                 class="fa"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -156,7 +156,7 @@ $menuItems = Menu::find()
                             </svg></i> <span class="nav-label"><?= Html::encode($menuItem->label) ?></span></a>
                 </li>
 
-                    <?php elseif ($menuItem->id == 11): ?> <!-- Условие для ID = 4 -->
+                    <?php elseif ($menuItem->id == 7): ?> <!-- Условие для ID = 4 -->
                 <li>
                     <a href="" aria-expanded="false" style="text-decoration: none"><i class="fa">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -170,7 +170,7 @@ $menuItems = Menu::find()
                     <!--                                        </ul>-->
                 </li>
 
-                    <?php elseif ($menuItem->id == 12): ?> <!-- Условие для ID = 4 -->
+                    <?php elseif ($menuItem->id == 8): ?> <!-- Условие для ID = 4 -->
                 <li>
                     <a href="" aria-expanded="false" style="text-decoration: none"><i class="fa">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
