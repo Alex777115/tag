@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "highcharts": "^11.4.8",
+    "wordcloud": "^1.2.3"
+  }
+}
