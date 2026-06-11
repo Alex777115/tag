@@ -4,16 +4,15 @@
             <ul class="nav metismenu" id="side-menu">
                 <li class="nav-header">
                     <div class="dropdown profile-element">
-                        <img alt="" class="rounded-circle" src="./INSPINIA _ Dashboard_files/profile_small.jpg">
                         <a data-toggle="dropdown" class="dropdown-toggle"
-                           href="<?= yii\helpers\Url::to(['default/index']); ?>">
-                            <?= yii\helpers\Html::img('@web/img/logo.png', ['style' => ['width' => '100%', 'height' => '100%']]); ?>
+                           href="<?= yii\helpers\Url::to(['default/index']); ?>" style="text-decoration:none;font-size:50px;font-weight:600">
+                           LOGO 
                         </a>
 
                     </div>
                     <div class="logo-element">
                         <a href="<?= yii\helpers\Url::to(['default/index']); ?>" style="text-decoration: none">
-                            iMAS
+                            LOGO
                         </a>
 
                     </div>

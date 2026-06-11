@@ -9975,4 +9975,10 @@ td .label-primary {
   }
 }
 
+.cont-login{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
 

@@ -52,7 +52,7 @@ AppAsset::register($this);
                 </a>
                 <form role="search" class="navbar-form-custom" action="#">
                     <div class="form-group">
-                        <span class="form-control" style="padding-top: 20px">iMAS</span>
+                        <span class="form-control" style="padding-top: 20px">LOGO</span>
                     </div>
                 </form>
             </div>
@@ -127,7 +127,7 @@ AppAsset::register($this);
     <!--        Footer-->
     <div class="footer">
         <div class="float-right">
-            <strong>iMAS</strong> © 2014-2024
+            <strong>LOGO</strong> © 2014-2024
         </div>
     </div>
     <!--            Footer-->
